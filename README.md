@@ -20,7 +20,7 @@
 - 💻 **Backend-focused** engineer with hands-on experience building scalable web systems using **Django** & **Django REST Framework**
 - ⚙️ I care about **clean code**, **logical thinking**, and **curiosity-driven learning**
 - 🔬 Also work with **Computer Vision** (OpenCV) and **Data Analysis** (pandas, NumPy)
-- 🚀 Interested in joining an **AI research lab** and taking on **freelance** backend projects
+- 🚀 Interested in **AI research lab**
 - 📫 Reach me: **amirmahdigolahmar@gmail.com** · **amir.golahmar@aut.ac.ir**
 
 ---
