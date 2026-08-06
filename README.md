@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
 </p>
 
-> **Also:** OOP · Data Structures · Algorithms · Relational Database Design · Django ORM · Machine Learning (Clustering, K-Means) · Data Visualization (Matplotlib/Seaborn) · Linear Algebra, Probability & Statistics
+> **Also:** OOP · Data Structures · Algorithms · Relational Database Design · Django ORM · Machine Learning · Deep Learning · Data Visualization (Matplotlib/Seaborn) · Linear Algebra, Probability & Statistics
 
 ---
 
