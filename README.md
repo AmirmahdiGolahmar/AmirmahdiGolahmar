@@ -66,12 +66,19 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirmahdiGolahmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirmahdiGolahmar&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirmahdiGolahmar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com?user=AmirmahdiGolahmar&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=AmirmahdiGolahmar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+<!-- If any card above shows a broken-image icon, it's usually the free demo server being
+     rate-limited/overloaded, not a config error. Fixes: hard-refresh, wait a few minutes,
+     or fork+deploy your own instance of the tool (README in each repo linked below):
+     stats/top-langs: https://github.com/anuraghazra/github-readme-stats
+     streak: https://github.com/DenverCoder1/github-readme-streak-stats
+     trophy: https://github.com/ryo-yamaoka/github-profile-trophy -->
 
 </div>
 
