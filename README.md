@@ -73,13 +73,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=AmirmahdiGolahmar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
-<!-- If any card above shows a broken-image icon, it's usually the free demo server being
-     rate-limited/overloaded, not a config error. Fixes: hard-refresh, wait a few minutes,
-     or fork+deploy your own instance of the tool (README in each repo linked below):
-     stats/top-langs: https://github.com/anuraghazra/github-readme-stats
-     streak: https://github.com/DenverCoder1/github-readme-streak-stats
-     trophy: https://github.com/ryo-yamaoka/github-profile-trophy -->
-
 </div>
 
 ---
