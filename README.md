@@ -55,10 +55,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | **Dynamic Form Management** | Scalable backend for dynamic workflow & form management with GraphQL APIs, async pipelines (Celery/Redis), and production deploy (Gunicorn/Nginx) | Django · DRF · Graphene · PostgreSQL · Docker |
-| **Streaming API** | RESTful video streaming backend with JWT auth, tiered subscriptions, and watch-history tracking | Django · DRF · SimpleJWT · PostgreSQL |
 | [**Iranian_HEIS**](https://github.com/AmirmahdiGolahmar/Iranian_HEIS) | National household income/expenditure analysis with clustering (K-Means) & data visualization | pandas · NumPy · scikit-learn |
 | [**Plate Recognition**](https://github.com/ZeinabMoayeri/Plate_recognition) | Iranian license-plate detection pipeline with image preprocessing & bounding-box extraction | Python · OpenCV · Pillow |
-| [**AP_Project**](https://github.com/AmirmahdiGolahmar/AP_Project) | Object-oriented application project | Java |
 
 ---
 
