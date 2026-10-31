@@ -111,12 +111,6 @@ flowchart LR
 
 `Claude Code` · `MCP` · `Hooks` · `Skills` · `Subagents` · `Kubernetes RBAC` · `Python`
 
-### 🛡️ Ham CTF Write-ups — [`hamctf-writeups`](https://github.com/AmirmahdiGolahmar/hamctf-writeups/tree/add-AmirmahdiGolahmar-writeups/AmirmahdiGolahmar)
-
-11 flags solved end to end, from web bugs to full host compromise, each with a reproducible PoC and a single `extract.sh` that replays them all:
-
-`Docker layer forensics` → `API schema exposure` → `path traversal` → `broken access control` → `JWT alg confusion` → `command injection` → `SSRF into the cluster network` → `ServiceAccount token leak` → `privileged pod + hostPath escape` → `Docker socket escape to the host`
-
 ### 🚗 ZipDepth as a YOLO26n Backbone — [`zipdepth_yolo26n`](https://github.com/AmirmahdiGolahmar/zipdepth_yolo26n)
 
 Research experiment: *can features learned for monocular depth estimation replace a detection backbone?* Swapped YOLO26n's backbone for the depth-pretrained ZipDepth encoder with channel adapters, fine-tuned on **KITTI**, and ran controlled ablations (adapter depth, neck/head init, longer training).
