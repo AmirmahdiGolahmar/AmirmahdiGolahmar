@@ -22,7 +22,7 @@
 - 🤖 Building **AI agents for operations**: a read-only **Kubernetes root-cause-analysis agent** built on **MCP**, hooks and skills
 - 🛡️ Into **security** and CTFs: web exploitation, container escapes and Kubernetes attack paths
 - 🔬 Also work with **Computer Vision** and **Deep Learning** (YOLO, OpenCV, PyTorch) and **Data Analysis**
-- 🚀 Interested in joining an **AI research lab**
+- 🚀 Interested in **research lab**
 - 📫 Reach me: **amirmahdigolahmar@gmail.com** · **amir.golahmar@aut.ac.ir**
 
 ---
